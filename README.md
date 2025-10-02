@@ -1,2 +1,6 @@
-# Laptop-Shop
-This is a text-based UI project. The objective here is to generate bills when buying from manufacturers or selling to the customers. Changes in the database can be made through the UI. One can remove or add entries to the database. This UI also allows one to get details of a single or multiple laptops.
+This is a text based Python application designed to help manage a laptop retail shop. It allows the user to:
+
+- Store and manage laptop inventory
+- Generate invoices for customer sales and manufacturer purchases
+- Handle shipping and customer details
+- View, add, and remove laptops from a text-based database
